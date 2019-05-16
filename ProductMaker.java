@@ -1,12 +1,9 @@
 package homework.managers;
 
-import com.sun.org.apache.bcel.internal.classfile.Code;
-import homework.products.ProductforSale;
-import homework.products.Stock;
-import homework.products.coffee.Coffee;
-import homework.products.tea.Tea;
-import homework.products.Sweets.*;
-import homework.managers.ProductManager;
+import homework.managers.products.Stock;
+import homework.managers.products.coffee.Coffee;
+import homework.managers.products.tea.Tea;
+import homework.managers.products.Sweets.*;
 
 import static java.lang.Thread.sleep;
 

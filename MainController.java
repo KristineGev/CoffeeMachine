@@ -1,9 +1,7 @@
 package homework.managers;
 
-import homework.products.ProductforSale;
-import homework.products.Sweets.Sweets;
-import homework.products.coffee.Coffee;
-import homework.products.tea.Tea;
+import homework.managers.products.ProductforSale;
+import homework.managers.products.coffee.Coffee;
 
 import java.util.Scanner;
 

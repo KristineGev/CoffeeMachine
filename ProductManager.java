@@ -1,19 +1,18 @@
 package homework.managers;
-import homework.products.*;
-import homework.products.Sweets.Kitkat;
-import homework.products.Sweets.Snickers;
-import homework.products.Sweets.Twix;
-import homework.products.coffee.Americano;
-import homework.products.coffee.Cappuccino;
-import homework.products.coffee.Espresso;
-import homework.products.coffee.Latte;
-import homework.products.tea.BlackTea;
-import homework.products.tea.FruitTea;
-import homework.products.tea.GreenTea;
-import homework.managers.ProductMaker;
+import homework.managers.products.*;
+import homework.managers.products.Sweets.Kitkat;
+import homework.managers.products.Sweets.Snickers;
+import homework.managers.products.Sweets.Twix;
+import homework.managers.products.coffee.Americano;
+import homework.managers.products.coffee.Cappuccino;
+import homework.managers.products.coffee.Espresso;
+import homework.managers.products.coffee.Latte;
+import homework.managers.products.tea.BlackTea;
+import homework.managers.products.tea.FruitTea;
+import homework.managers.products.tea.GreenTea;
+
 import java.util.HashMap;
 import java.util.Map;
-import homework.managers.ProductMaker;
 
 public class ProductManager {
 
